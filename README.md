@@ -1,2 +1,2 @@
 # bio-complexity
-This code calculate linguistic and entropy complexity of genes, proteins and sequences
+This code calculates linguistic and entropy complexity of genes, proteins and sequences
